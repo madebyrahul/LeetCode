@@ -48,6 +48,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -68,5 +69,10 @@ My C++ DSA journey — solutions to LeetCode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
