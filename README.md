@@ -41,6 +41,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0138-copy-list-with-random-pointer](https://github.com/madebyrahul/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/madebyrahul/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madebyrahul/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -92,10 +94,12 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
