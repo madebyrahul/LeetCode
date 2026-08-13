@@ -50,6 +50,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -84,4 +85,16 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
