@@ -64,6 +64,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/madebyrahul/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -111,6 +113,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
