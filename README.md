@@ -54,6 +54,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/madebyrahul/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/madebyrahul/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -123,4 +124,9 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madebyrahul/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/madebyrahul/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/madebyrahul/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
