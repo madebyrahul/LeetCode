@@ -104,6 +104,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
@@ -158,4 +159,8 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
