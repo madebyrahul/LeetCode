@@ -95,6 +95,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -168,6 +169,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,4 +178,9 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
