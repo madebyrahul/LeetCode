@@ -19,18 +19,26 @@ class Solution {
         return ans;
     }
 
+    pair<bool,int> solve(TreeNode* root){
+        if(root == NULL){
+            pair<bool,int> p = {true,0};
+            return p;
+        }
+        pair<bool,int> left = solve(root->left);
+        pair<bool,int> right = solve(root->right);
+        bool heightBalance = abs( left.second - right.second ) <= 1;
+        pair<bool,int> ans;
+        ans.second = max(left.second,right.second) + 1;
+        if(heightBalance && left.first && right.first){
+             ans.first = true;
+        }else{
+            ans.first = false;
+        }
+        return ans;
+    }
+
 public:
     bool isBalanced(TreeNode* root) {
-        if(root == NULL){
-            return true;
-        }
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-        bool heightBalance = abs(height(root->left) - height(root->right)) <= 1;
-        if(heightBalance && left && right){
-            return true;
-        }else{
-            return false;
-        }
+        return solve(root).first;
     }
 };
