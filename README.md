@@ -93,6 +93,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -163,4 +164,16 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
