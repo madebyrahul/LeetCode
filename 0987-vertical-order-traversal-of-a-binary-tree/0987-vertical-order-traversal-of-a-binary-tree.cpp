@@ -12,44 +12,38 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        
-        map<int, map<int, vector<int>>> mp;
-        queue<pair<TreeNode*, pair<int, int>>> q;
-        
-        q.push({root, {0, 0}});
-        
-        while (!q.empty()) {
-            auto temp = q.front();
+        map<int,map<int,vector<int>>> mapping;
+        queue<pair<TreeNode*,pair<int,int>>> q;
+        q.push({root,{0,0}});
+
+        while(!q.empty()){
+            pair<TreeNode*,pair<int,int>> temp = q.front();
             q.pop();
-            
-            TreeNode* node = temp.first;
-            int row = temp.second.first;
-            int col = temp.second.second;
-            
-            mp[col][row].push_back(node->val);
-            
-            if (node->left)
-                q.push({node->left, {row + 1, col - 1}});
-            
-            if (node->right)
-                q.push({node->right, {row + 1, col + 1}});
+            TreeNode* frontNode = temp.first;
+            int horizontal = temp.second.first;
+            int level = temp.second.second;
+            mapping[horizontal][level].push_back(frontNode->val);
+            if(frontNode->left){
+                q.push({frontNode->left,{horizontal-1,level+1}});
+            } 
+            if(frontNode->right){
+                q.push({frontNode->right,{horizontal+1,level+1}});
+            }
         }
         
         vector<vector<int>> ans;
-        
-        for (auto col : mp) {
-            vector<int> column;
-            
-            for (auto row : col.second) {
-                sort(row.second.begin(), row.second.end());
-                
-                for (int value : row.second)
-                    column.push_back(value);
+        for(auto i : mapping){
+            vector<int> temp;
+            for(auto j : i.second){
+                sort(j.second.begin(),j.second.end());
+                for( int k : j.second){
+                     temp.push_back(k);
+                }
             }
-            
-            ans.push_back(column);
+            ans.push_back(temp);
         }
         
         return ans;
+
     }
 };
