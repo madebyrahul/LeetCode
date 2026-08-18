@@ -100,6 +100,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0110-balanced-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/madebyrahul/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -179,6 +180,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/madebyrahul/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -188,6 +190,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/madebyrahul/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -197,6 +200,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/madebyrahul/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
