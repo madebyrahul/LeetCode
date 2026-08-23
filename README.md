@@ -120,6 +120,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
 |  |
@@ -155,6 +156,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +221,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -255,12 +258,14 @@ My C++ DSA journey — solutions to LeetCode
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -282,4 +287,5 @@ My C++ DSA journey — solutions to LeetCode
 | [0700-search-in-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
