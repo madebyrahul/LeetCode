@@ -12,13 +12,17 @@
 class Solution {
 
     int countNodes(TreeNode* root){
-        if(root == NULL) return 0;
+        if(root == NULL){
+            return 0;
+        }
         int ans = countNodes(root->left) + countNodes(root->right) + 1;
         return ans;
     }
 
     bool solve(TreeNode* root , int cnt,int i){
-        if(root == NULL) return true;
+        if(root == NULL){
+            return true;
+        };
         if(i>cnt){
             return false;
         }
