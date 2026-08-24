@@ -79,10 +79,12 @@ My C++ DSA journey — solutions to LeetCode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/madebyrahul/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/madebyrahul/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Merge Sort
@@ -136,6 +138,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
+| [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
@@ -183,6 +186,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -291,4 +295,8 @@ My C++ DSA journey — solutions to LeetCode
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
