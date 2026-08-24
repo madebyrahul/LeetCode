@@ -219,6 +219,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -231,6 +232,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/madebyrahul/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -256,6 +258,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
