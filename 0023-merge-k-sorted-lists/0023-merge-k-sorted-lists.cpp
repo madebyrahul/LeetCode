@@ -12,7 +12,7 @@ class Solution {
 
     class compare{
         public:
-        bool operator()(ListNode* a,ListNode* b){
+         bool operator()(ListNode* a,ListNode* b){
             return a->val > b->val;
         }
     };
@@ -21,13 +21,16 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         priority_queue<ListNode*,vector<ListNode*>,compare> minHeap;
         int size = lists.size();
+
         for(int i=0;i<size;i++){
             if(lists[i] != NULL){
                 minHeap.push(lists[i]);
             }
         }
+
         ListNode* head = NULL;
         ListNode* tail = NULL;
+        
         while(minHeap.size() > 0){
             ListNode* temp = minHeap.top();
             minHeap.pop();
