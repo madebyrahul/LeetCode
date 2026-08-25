@@ -22,8 +22,9 @@ public:
         priority_queue<ListNode*,vector<ListNode*>,compare> minHeap;
         int size = lists.size();
         for(int i=0;i<size;i++){
-            if(lists[i] != NULL)
-               minHeap.push(lists[i]);
+            if(lists[i] != NULL){
+                minHeap.push(lists[i]);
+            }
         }
         ListNode* head = NULL;
         ListNode* tail = NULL;
