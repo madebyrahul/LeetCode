@@ -36,6 +36,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/madebyrahul/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/madebyrahul/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -88,6 +89,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0148-sort-list](https://github.com/madebyrahul/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -176,6 +178,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0155-min-stack](https://github.com/madebyrahul/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madebyrahul/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madebyrahul/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
@@ -196,6 +199,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0023-merge-k-sorted-lists](https://github.com/madebyrahul/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Queue
 |  |
@@ -313,4 +317,8 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madebyrahul/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
