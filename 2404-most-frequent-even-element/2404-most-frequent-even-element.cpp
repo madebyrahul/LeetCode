@@ -7,12 +7,12 @@ public:
                 m[nums[i]]++;
             }
         }
-        int maxFreq = 0;
+        int maxiFreq = 0;
         int ans = -1;
         for(auto val : nums){
            if(val % 2 != 0) continue;
-           if(m[val] > maxFreq || m[val] == maxFreq && val < ans){
-              maxFreq = m[val];
+           if(m[val] > maxiFreq || m[val] == maxiFreq && val < ans){
+              maxiFreq = m[val];
               ans = val;
            }
         }
