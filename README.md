@@ -103,6 +103,7 @@ My C++ DSA journey — solutions to LeetCode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
@@ -141,6 +142,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -330,5 +332,6 @@ My C++ DSA journey — solutions to LeetCode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
