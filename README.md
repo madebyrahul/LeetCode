@@ -47,6 +47,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0138-copy-list-with-random-pointer](https://github.com/madebyrahul/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/madebyrahul/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madebyrahul/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -103,6 +104,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -178,6 +180,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madebyrahul/LeetCode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/madebyrahul/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madebyrahul/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -324,4 +327,8 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
