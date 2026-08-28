@@ -143,6 +143,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -334,4 +335,12 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
