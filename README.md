@@ -42,6 +42,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/madebyrahul/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -143,6 +144,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madebyrahul/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -178,6 +180,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
@@ -338,9 +341,15 @@ My C++ DSA journey — solutions to LeetCode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/madebyrahul/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
