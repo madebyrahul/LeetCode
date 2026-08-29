@@ -135,6 +135,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
 |  |
@@ -264,6 +265,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -352,4 +354,12 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
