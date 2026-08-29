@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>> adjList(n);
+        vector<vector<int>> adjList(n);              //sized with n
         for(int i=0;i<edges.size();i++){
             int u = edges[i][0];
             int v = edges[i][1];
