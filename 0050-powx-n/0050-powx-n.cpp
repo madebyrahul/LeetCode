@@ -1,7 +1,7 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long y = abs((long)n);
+        long y = abs(long(n));
         double ans = 1.0;
         while(y>=1){
             if(y&1){
