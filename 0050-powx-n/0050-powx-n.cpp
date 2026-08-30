@@ -1,7 +1,7 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long nn = n; // Store n in long long to prevent integer overflow when n = INT_MIN
+        long long nn = n;
         if (nn < 0) {
             nn = -1 * nn;
         }
@@ -9,10 +9,10 @@ public:
         double ans = 1.0;
         
         while (nn > 0) {
-            if (nn % 2 == 1) { // If power is odd
+            if (nn % 2 == 1) {
                 ans = ans * x;
                 nn = nn - 1;
-            } else { // If power is even
+            } else {
                 x = x * x;
                 nn = nn / 2;
             }
