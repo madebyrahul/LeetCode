@@ -1,14 +1,14 @@
 class Solution {
 
-    bool isCycleDFS(int src,vector<bool> &vis,vector<bool> &recPath,vector<vector<int>> &edges){
-        vis[src] = true;
-        recPath[src] = true;
+    bool isCycleByDFS(int node,vector<bool> &vis,vector<bool> &recPath,vector<vector<int>> &edges){
+        vis[node] = true;
+        recPath[node] = true;
         for(int i=0;i<edges.size();i++){
             int v = edges[i][0];
             int u = edges[i][1];
-            if(u == src){
+            if(u == node){
                 if(!vis[v]){
-                    if(isCycleDFS(v,vis,recPath,edges)){
+                    if(isCycleByDFS(v,vis,recPath,edges)){
                         return true;
                     }
                 }else{
@@ -18,24 +18,24 @@ class Solution {
                 }
             }
         }
-        recPath[src] = false;
+        recPath[node] = false;
         return false;
     }
 
-    void topoOrder(int src,vector<bool> &vis,stack<int> &s,vector<vector<int>> &edges){
-        vis[src] = true;
+    void topoLogicalOrder(int node,vector<bool> &vis,stack<int> &s,vector<vector<int>> &edges){
+        vis[node] = true;
 
         for(int i=0;i<edges.size();i++){
             int v = edges[i][0];
             int u = edges[i][1];
-            if(u == src){
+            if(u == node){
                 if(!vis[v]){
-                    topoOrder(v,vis,s,edges);
+                    topoLogicalOrder(v,vis,s,edges);
                 }
             }
         }
 
-        s.push(src);
+        s.push(node);
 
     }
 
@@ -49,7 +49,7 @@ public:
         
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                if(isCycleDFS(i,vis,recPath,edges)){
+                if(isCycleByDFS(i,vis,recPath,edges)){
                     return ans;
                 }
             }
@@ -60,7 +60,7 @@ public:
 
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                topoOrder(i,vis,s,edges);
+                topoLogicalOrder(i,vis,s,edges);
             }
         }
         
