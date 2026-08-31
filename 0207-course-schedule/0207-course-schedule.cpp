@@ -1,43 +1,42 @@
 class Solution {
 
-    bool isCycleDFS(int node,vector<bool> &visited,vector<bool> &recPath,vector<vector<int>> &edges){
-        visited[node] = true;
-        recPath[node] = true;
-        for(int i=0;i<edges.size();i++){
-            int v = edges[i][0];
-            int u = edges[i][1];
-            if(u == node){
-                if(!visited[v]){
-                    if(isCycleDFS(v,visited,recPath,edges)){
+    bool hasCycle(int course, vector<bool> &visited, vector<bool> &inStack, vector<vector<int>> &prereqs){
+        visited[course] = true;
+        inStack[course] = true;
+        for(int i = 0; i < prereqs.size(); i++){
+            int pre = prereqs[i][0];
+            int cur = prereqs[i][1];
+            if(cur == course){
+                if(!visited[pre]){
+                    if(hasCycle(pre, visited, inStack, prereqs)){
                         return true;
                     }
-                }else{
-                    if(recPath[v]){
+                } else {
+                    if(inStack[pre]){
                         return true;
                     }
                 }
             }
         }
-        recPath[node] = false;
+        inStack[course] = false;
         return false;
     }
 
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
-        vector<vector<int>> &edges = prerequisites;
-        vector<bool> recPath(n,false);
-        vector<bool> visited(n,false);
+        vector<vector<int>> &prereqs = prerequisites;
+        vector<bool> inStack(n, false);
+        vector<bool> visited(n, false);
 
-        for(int i=0;i<n;i++){
+        for(int i = 0; i < n; i++){
             if(!visited[i]){
-                if(isCycleDFS(i,visited,recPath,edges)){
+                if(hasCycle(i, visited, inStack, prereqs)){
                     return false;
                 }
             }
         }
 
         return true;
-
     }
 };
