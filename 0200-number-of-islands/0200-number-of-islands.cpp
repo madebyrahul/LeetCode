@@ -13,7 +13,7 @@ class Solution {
 
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int island = 0;
+        int islandCount = 0;
         int row = grid.size();
         int col = grid[0].size();
         vector<vector<bool>> visited(row,vector<bool>(col,false));
@@ -22,12 +22,12 @@ public:
             for(int j=0;j<col;j++){
                 if(grid[i][j] == '1' && !visited[i][j]){
                     dfs(i,j,visited,grid,row,col);
-                    island++;
+                    islandCount++;
                 }
             }
         }
 
-        return island;
+        return islandCount;
 
     }
 };
