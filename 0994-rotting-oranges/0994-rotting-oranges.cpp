@@ -5,7 +5,7 @@ public:
         int col = grid[0].size();
         vector<vector<bool>> visited(row,vector<bool>(col,false));
         
-        queue<pair<pair<int,int>,int>> q; // { {i,j}, time}
+        queue<pair<pair<int,int>,int>> q; // here one entity is like { {i,j}, time}
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 if(grid[i][j] == 2){
