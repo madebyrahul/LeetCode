@@ -10,6 +10,7 @@ public:
             for(int j=0;j<col;j++){
                 if(grid[i][j] == 2){
                     q.push({{i,j},0});
+                    visited[i][j] = true;
                 }
             }
         }
