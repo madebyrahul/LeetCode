@@ -137,6 +137,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0437-path-sum-iii](https://github.com/madebyrahul/LeetCode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -222,6 +223,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/madebyrahul/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -275,6 +277,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
@@ -377,6 +380,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -387,4 +391,12 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
