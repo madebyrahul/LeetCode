@@ -167,6 +167,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2404-most-frequent-even-element](https://github.com/madebyrahul/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Monotonic Stack
 |  |
@@ -374,6 +375,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -381,6 +383,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -399,4 +402,20 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
