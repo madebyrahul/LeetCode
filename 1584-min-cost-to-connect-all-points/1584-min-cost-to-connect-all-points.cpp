@@ -2,10 +2,10 @@ class Solution {
 
     typedef pair<int,int> P;
 
-    int primsAlgo(vector<vector<P>> &adjList,int &vert){
-        vector<bool> visited(vert,false);
+    int primsAlgo(vector<vector<P>> &adjList,int &vertices){
+        vector<bool> visited(vertices,false);
         priority_queue<P,vector<P>,greater<P>> pq;
-        pq.push({0,0});
+        pq.push({0,0}); // {dist,node}
         int sum = 0;
         while(!pq.empty()){
             auto top = pq.top();
@@ -16,10 +16,10 @@ class Solution {
             sum += w;
             visited[node] = true;
             for(auto neighbour : adjList[node]){
-                int next = neighbour.first;
-                int weight = neighbour.second;
-                if(!visited[next]){
-                    pq.push({weight,next});
+                int nextNode = neighbour.first;
+                int nextWeight = neighbour.second;
+                if(!visited[nextNode]){
+                    pq.push({nextWeight,nextNode});
                 }
             }
         }
