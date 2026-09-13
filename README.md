@@ -137,6 +137,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0437-path-sum-iii](https://github.com/madebyrahul/LeetCode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -278,6 +279,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -375,6 +377,7 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -382,6 +385,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
