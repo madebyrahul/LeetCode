@@ -141,6 +141,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/madebyrahul/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -284,6 +285,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0958-check-completeness-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/madebyrahul/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -378,6 +380,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/madebyrahul/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -387,6 +390,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/madebyrahul/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madebyrahul/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
