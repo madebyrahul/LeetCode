@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<vector<pair<int,int>>> adjList(n); // u-> {v,wt}
+        vector<vector<pair<int,int>>> adjList(n); // each value is u-> {v,wt}
         for (int i = 0; i < flights.size(); i++) {
             int u = flights[i][0];
             int v = flights[i][1];
@@ -10,7 +10,7 @@ public:
         }
 
         vector<int> cost(n, INT_MAX);
-        queue<pair<int, pair<int, int>>> q; // {node,{currCost,stops}}
+        queue<pair<int, pair<int, int>>> q; // each value is  {node,{currCost,stops}}
         q.push({src, {0, -1}});
 
         while (!q.empty()) {
@@ -30,7 +30,6 @@ public:
             }
         }
 
-        if (cost[dst] == INT_MAX) return -1;
-        return cost[dst];
+        return cost[dst] == INT_MAX ? -1 : cost[dst];
     }
 };
