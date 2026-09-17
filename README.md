@@ -170,6 +170,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
@@ -194,6 +195,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +292,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/madebyrahul/LeetCode/tree/master/0743-network-delay-time) |
@@ -453,4 +456,12 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
