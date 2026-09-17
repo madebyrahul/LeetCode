@@ -16,6 +16,7 @@ class Solution {
 
 public:
     int rob(vector<int>& nums) {
+        // memory optimization
         return solve(nums);
     }
 };
