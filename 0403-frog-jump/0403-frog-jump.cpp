@@ -19,6 +19,7 @@ class Solution {
                 }
             }
         }
+        
         return dp[curr_stone_idx][prevJump] =  result;
     }
 
