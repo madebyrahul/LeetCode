@@ -37,7 +37,8 @@ public:
 
         int ans1 = solve(0,v1,dp);
         dp.assign(n,-1);
+        int ans2 = solve(0,v2,dp);
 
-        return max(ans1, solve(0,v2,dp));
+        return max(ans1,ans2);
     }
 };
