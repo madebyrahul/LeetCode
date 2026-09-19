@@ -169,6 +169,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
@@ -198,6 +199,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
