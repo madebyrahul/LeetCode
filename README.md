@@ -81,6 +81,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0002-add-two-numbers](https://github.com/madebyrahul/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/madebyrahul/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -201,6 +202,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -300,6 +302,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/madebyrahul/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/madebyrahul/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/madebyrahul/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/madebyrahul/LeetCode/tree/master/0547-number-of-provinces) |
@@ -468,9 +471,11 @@ My C++ DSA journey — solutions to LeetCode
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
