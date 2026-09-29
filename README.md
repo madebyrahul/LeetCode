@@ -172,6 +172,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -203,6 +204,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
@@ -219,6 +221,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0037-sudoku-solver](https://github.com/madebyrahul/LeetCode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/madebyrahul/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
