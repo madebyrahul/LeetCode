@@ -183,6 +183,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2404-most-frequent-even-element](https://github.com/madebyrahul/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Monotonic Stack
@@ -214,6 +215,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
@@ -483,4 +485,12 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
