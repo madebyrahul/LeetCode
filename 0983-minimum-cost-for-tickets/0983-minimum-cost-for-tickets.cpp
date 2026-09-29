@@ -2,7 +2,7 @@ class Solution {
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int ans = 0;
-        queue<pair<int,int>> month;
+        queue<pair<int,int>> month; // {day,cost}
         queue<pair<int,int>> week;
 
         for(int day : days){
