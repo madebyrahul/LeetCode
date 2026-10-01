@@ -102,6 +102,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,6 +185,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1824-minimum-sideway-jumps](https://github.com/madebyrahul/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [2404-most-frequent-even-element](https://github.com/madebyrahul/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -218,6 +220,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/madebyrahul/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 ## Matrix
 |  |
@@ -273,6 +276,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/madebyrahul/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 ## Tree
 |  |
