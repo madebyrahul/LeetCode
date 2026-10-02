@@ -2,20 +2,22 @@ class Solution {
 
     int solve(vector<int>& nums){
         int n = nums.size();
-        vector<vector<int>> dp(n+1,vector<int> (n+1,0));
+        vector<int> currRow(n+1,0);
+        vector<int> nextRow(n+1,0);
 
         for(int curr=n-1;curr>=0;curr--){
             for(int prev=curr-1;prev>=-1;prev--){
                 int take = 0;
                 if(prev == -1 || nums[curr] > nums[prev]){
-                    take = 1 + dp[curr+1][curr+1];
+                    take = 1 + nextRow[curr+1];
                 }
-                int notTake = 0 + dp[curr+1][prev+1];
-                dp[curr][prev+1] =  max(take,notTake);
+                int notTake = 0 + nextRow[prev+1];
+                currRow[prev+1] =  max(take,notTake);
             }
+            nextRow = currRow;
         }
 
-        return dp[0][0];
+        return nextRow[0];
     }
 
 public:
