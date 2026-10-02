@@ -175,6 +175,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/madebyrahul/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/madebyrahul/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
@@ -210,6 +211,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -379,6 +381,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madebyrahul/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/madebyrahul/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -500,4 +503,8 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
