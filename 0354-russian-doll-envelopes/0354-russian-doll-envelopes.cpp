@@ -8,7 +8,7 @@ class Solution {
     }
 
     void extractCol(vector<vector<int>>& envelopes,vector<int>& nums,int col){
-        for(auto &v : envelopes){
+        for(const auto &v : envelopes){
             nums.push_back(v[col]);
         }
     }
