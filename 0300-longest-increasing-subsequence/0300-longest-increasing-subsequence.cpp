@@ -1,18 +1,23 @@
 class Solution {
 
-    int solve(vector<int>& nums){
-        int n = nums.size();
-        vector<int> ans;
-        ans.push_back(nums[0]);
-        for(int i=1;i<n;i++){
-            if(nums[i] > ans.back()){
-                ans.push_back(nums[i]);
-            }else{
-                int index = lower_bound(ans.begin(),ans.end(),nums[i]) - ans.begin();
-                ans[index] = nums[i];
+    int solve(vector<int>& a){
+        int n = a.size();
+        vector<int> currRow(n+1,0);
+        vector<int> prevRow(n+1,0);
+
+        for(int curr=n-1;curr>=0;curr--){
+            for(int prev=curr-1;prev>=-1;prev--){
+                int take=0;
+                if(prev==-1 || a[curr] > a[prev]){
+                    take = 1 + prevRow[curr+1];
+                }
+                int notTake = 0 + prevRow[prev+1];
+                currRow[prev+1] = max(take,notTake);
             }
+            prevRow = currRow;
         }
-        return ans.size();
+        
+        return prevRow[0];
     }
 
 public:
