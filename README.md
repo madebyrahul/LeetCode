@@ -104,6 +104,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/madebyrahul/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Merge Sort
 |  |
 | ------- |
@@ -190,6 +191,7 @@ My C++ DSA journey — solutions to LeetCode
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madebyrahul/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/madebyrahul/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/madebyrahul/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [2404-most-frequent-even-element](https://github.com/madebyrahul/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Monotonic Stack
@@ -226,6 +228,7 @@ My C++ DSA journey — solutions to LeetCode
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/madebyrahul/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/madebyrahul/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 ## Matrix
 |  |
