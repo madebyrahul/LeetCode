@@ -2,23 +2,24 @@ class Solution {
 
     bool solve(int total,int n,vector<int>& arr){
         int t = total/2;
-        vector<vector<int>> dp(n+1,vector<int>(t+1,0));
-        for(int i=0;i<=n;i++){
-            dp[i][0] = 1;
-        }
+        vector<int> curr(t+1,0);
+        vector<int> next(t+1,0);
+        curr[0] = 1;
+        next[0] = 1;
 
         for(int index=n-1;index>=0;index--){
             for(int target=0;target<=t;target++){
                  bool incl=0;
                  if(target-arr[index] >=0){
-                      incl = dp[index+1][target-arr[index]];
+                      incl = next[target-arr[index]];
                  }
-                 bool excl = dp[index+1][target];
-                 dp[index][target] =  incl or excl;
+                 bool excl = next[target];
+                 curr[target] =  incl or excl;
             }
+            next = curr;
         }
 
-        return dp[0][t]; 
+        return next[t]; 
         
     }
 
