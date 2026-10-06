@@ -187,6 +187,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -227,6 +228,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/madebyrahul/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
