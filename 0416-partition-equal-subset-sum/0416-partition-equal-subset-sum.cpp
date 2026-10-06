@@ -1,17 +1,25 @@
 class Solution {
 
-    bool solve(int index,int target,int n,vector<int>& arr,vector<vector<int>> &dp){
-        if(index >= n) return false;
-        if(target < 0) return false;
-        if(target == 0) return true;
-
-        if(dp[index][target] != -1){
-            return dp[index][target];
+    bool solve(int total,int n,vector<int>& arr){
+        int t = total/2;
+        vector<vector<int>> dp(n+1,vector<int>(t+1,0));
+        for(int i=0;i<=n;i++){
+            dp[i][0] = 1;
         }
 
-        bool incl = solve(index+1,target-arr[index],n,arr,dp);
-        bool excl = solve(index+1,target,n,arr,dp);
-        return dp[index][target] =  incl or excl;
+        for(int index=n-1;index>=0;index--){
+            for(int target=0;target<=t;target++){
+                 bool incl=0;
+                 if(target-arr[index] >=0){
+                      incl = dp[index+1][target-arr[index]];
+                 }
+                 bool excl = dp[index+1][target];
+                 dp[index][target] =  incl or excl;
+            }
+        }
+
+        return dp[0][t]; 
+        
     }
 
 public:
@@ -21,9 +29,7 @@ public:
             total += i;
         }
         if(total & 1) return false;
-        int target = total/2;
         int n = nums.size();
-        vector<vector<int>> dp(n,vector<int>(target+1,-1));
-        return solve(0,target,n,nums,dp);
+        return solve(total,n,nums);
     }
 };
