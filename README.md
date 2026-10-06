@@ -182,6 +182,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0354-russian-doll-envelopes](https://github.com/madebyrahul/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
@@ -222,6 +223,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0354-russian-doll-envelopes](https://github.com/madebyrahul/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -502,6 +504,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -520,4 +523,8 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/madebyrahul/LeetCode/tree/master/0354-russian-doll-envelopes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
