@@ -55,6 +55,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1027-longest-arithmetic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/madebyrahul/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/madebyrahul/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Floyd's Cycle Finding Algorithm
@@ -190,6 +191,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/madebyrahul/LeetCode/tree/master/0994-rotting-oranges) |
+| [1027-longest-arithmetic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1388-pizza-with-3n-slices](https://github.com/madebyrahul/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
@@ -230,6 +232,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/madebyrahul/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -401,6 +404,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0450-delete-node-in-a-bst](https://github.com/madebyrahul/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1027-longest-arithmetic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Quickselect
