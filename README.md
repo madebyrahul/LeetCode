@@ -83,6 +83,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0002-add-two-numbers](https://github.com/madebyrahul/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/madebyrahul/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -218,6 +219,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/madebyrahul/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madebyrahul/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/madebyrahul/LeetCode/tree/master/0221-maximal-square) |
@@ -304,6 +306,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madebyrahul/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -354,6 +357,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/madebyrahul/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/madebyrahul/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -398,6 +402,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madebyrahul/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madebyrahul/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
