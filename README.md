@@ -85,6 +85,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/madebyrahul/LeetCode/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madebyrahul/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -228,6 +229,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0322-coin-change](https://github.com/madebyrahul/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/madebyrahul/LeetCode/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/madebyrahul/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madebyrahul/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/madebyrahul/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -541,4 +543,12 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madebyrahul/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madebyrahul/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
