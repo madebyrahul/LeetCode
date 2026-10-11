@@ -195,6 +195,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0496-next-greater-element-i](https://github.com/madebyrahul/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/madebyrahul/LeetCode/tree/master/0641-design-circular-deque) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madebyrahul/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/madebyrahul/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -245,6 +246,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madebyrahul/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/madebyrahul/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -315,6 +317,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madebyrahul/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madebyrahul/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/madebyrahul/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1388-pizza-with-3n-slices](https://github.com/madebyrahul/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/madebyrahul/LeetCode/tree/master/1402-reducing-dishes) |
