@@ -1,36 +1,34 @@
 class Solution {
 
-    int solve(int index,int buy,vector<int>& prices,int limit,vector<vector<vector<int>>> &dp){
-        if(index == prices.size()){
-            return 0;
-        }
-        if(limit == 0){
-            return 0;
-        }
+    int solve(vector<int>& prices){
+        int n = prices.size();
+        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int>(3,0)));
 
-        if(dp[index][buy][limit] != -1){
-            return dp[index][buy][limit];
-        }
+        for(int index=n-1;index>=0;index--){
+            for(int buy=0;buy<=1;buy++){
+                for(int limit=1;limit<=2;limit++){
+                    int profit = 0;
+                    if(buy){
+                        int buyKaro = -prices[index] + dp[index+1][0][limit];
+                        int skip = 0 + dp[index+1][1][limit];
+                        profit = max(buyKaro,skip);
+                    }else{
+                        int sellKaro = +prices[index] + dp[index+1][1][limit-1];
+                        int skip = 0 + dp[index+1][0][limit];
+                        profit = max(sellKaro,skip);
+                    }
 
-        int profit = 0;
-        if(buy){
-            int buyKaro = -prices[index] + solve(index+1,0,prices,limit,dp);
-            int skip = 0 + solve(index+1,1,prices,limit,dp);
-            profit = max(buyKaro,skip);
-        }else{
-            int sellKaro = +prices[index] + solve(index+1,1,prices,limit-1,dp);
-            int skip = 0 + solve(index+1,0,prices,limit,dp);
-            profit = max(sellKaro,skip);
+                    dp[index][buy][limit] = profit;
+                }
+            }
         }
-
-        return dp[index][buy][limit] = profit;
+       
+        return dp[0][1][2]; 
     }
 
 public:
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int>>> dp(n,vector<vector<int>> (2,vector<int>(3,-1)));
-        return solve(0,1,prices,2,dp);
+        return solve(prices);
         
     }
 };
