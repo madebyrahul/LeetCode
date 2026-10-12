@@ -124,6 +124,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -254,6 +255,7 @@ My C++ DSA journey — solutions to LeetCode
 | [1027-longest-arithmetic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/madebyrahul/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/madebyrahul/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/madebyrahul/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/madebyrahul/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/madebyrahul/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -572,4 +574,8 @@ My C++ DSA journey — solutions to LeetCode
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/madebyrahul/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
