@@ -49,23 +49,21 @@ public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
+
+        int* height = new int[n]();
+        int maxi = INT_MIN;
         
-        vector<vector<int>> mat(m,vector<int>(n));
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                mat[i][j] = matrix[i][j] -'0';
+                if(matrix[i][j] == '1'){
+                    height[j]++;
+                }else{
+                    height[j] = 0;
+                }
             }
+            maxi = max(maxi,getMaxArea(height,n));
         }
-
-        int area = getMaxArea(mat[0].data(),n);
-        
-        for(int i=1;i<m;i++){
-            for(int j=0;j<n;j++){
-                mat[i][j] = mat[i][j] != 0 ? mat[i][j] + mat[i-1][j] : 0;
-            }
-            area = max(area,getMaxArea(mat[i].data(),n));
-        }
-        
-        return area;
+        delete[] height;
+        return maxi;
     }
 };
