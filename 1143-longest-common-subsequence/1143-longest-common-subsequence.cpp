@@ -3,21 +3,23 @@ class Solution {
     int solve(string &a, string &b){
         int n = a.length();
         int m = b.length();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        vector<int> curr(m+1,0);
+        vector<int> next(m+1,0);
 
         for(int i=n-1;i>=0;i--){
             for(int j=m-1;j>=0;j--){
                 int ans = 0;
                 if(a[i] == b[j]){
-                    ans = 1 + dp[i+1][j+1];
+                    ans = 1 + next[j+1];
                 }else{
-                    ans = max(dp[i+1][j],dp[i][j+1]);
+                    ans = max(next[j],curr[j+1]);
                 }
-                dp[i][j] =  ans;
+                curr[j] =  ans;
             }
+            next = curr;
         }
 
-        return dp[0][0];
+        return next[0];
     }
 
 public:
