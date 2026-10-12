@@ -27,6 +27,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0002-add-two-numbers](https://github.com/madebyrahul/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/madebyrahul/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madebyrahul/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/madebyrahul/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/madebyrahul/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madebyrahul/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +121,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/madebyrahul/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/madebyrahul/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
@@ -228,6 +230,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/madebyrahul/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/madebyrahul/LeetCode/tree/master/0072-edit-distance) |
@@ -320,6 +323,7 @@ My C++ DSA journey — solutions to LeetCode
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/madebyrahul/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madebyrahul/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/madebyrahul/LeetCode/tree/master/0134-gas-station) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madebyrahul/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
