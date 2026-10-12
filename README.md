@@ -123,6 +123,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
@@ -247,6 +248,7 @@ My C++ DSA journey — solutions to LeetCode
 | [0403-frog-jump](https://github.com/madebyrahul/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/madebyrahul/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/madebyrahul/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/madebyrahul/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madebyrahul/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madebyrahul/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
