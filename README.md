@@ -120,6 +120,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madebyrahul/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madebyrahul/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/madebyrahul/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/madebyrahul/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/madebyrahul/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/madebyrahul/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +230,7 @@ My C++ DSA journey — solutions to LeetCode
 | ------- |
 | [0053-maximum-subarray](https://github.com/madebyrahul/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madebyrahul/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/madebyrahul/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/madebyrahul/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/madebyrahul/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madebyrahul/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
